@@ -68,6 +68,11 @@ body {
   font-size: 34px;
 }
 
+#winner {
+  color: #69ecd2;
+  font-size: 34px;
+}
+
 .box:hover {
   background-color: #1abc9c;
   color: #2c3e50;
