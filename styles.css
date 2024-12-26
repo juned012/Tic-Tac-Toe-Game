@@ -18,7 +18,7 @@ body {
 }
 
 .container {
-  padding: 30px 0px;
+  padding: 10px 0px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -56,6 +56,16 @@ body {
   cursor: pointer;
   transition: background-color 0.3s ease, transform 0.2s ease, color 0.3s ease;
   border-radius: 8px;
+}
+
+.current-Player {
+  text-align: center;
+  color: #ecf0f1;
+}
+
+#currentPlayer {
+  color: #1abc9c;
+  font-size: 34px;
 }
 
 .box:hover {
